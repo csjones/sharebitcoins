@@ -19,7 +19,7 @@ How To Get Started
 
 ![Name it, and click OK](http://imgur.com/dZG8g.png)
 
--	Edit the batch with a text editor
+-	Edit the batch with a text editor ( Format - Bitcoin Address:Number Of Shares )
 
 ![Edit the batch with a text editor](http://imgur.com/jHeKq.png)
 
