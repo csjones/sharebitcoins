@@ -8,8 +8,8 @@ How To Get Started
 ==================
 
 -	Download and Install: [Active State Python](http://www.activestate.com/activepython/downloads) & [wxPython](http://www.wxpython.org/download.php#stable)
--	Double click main.pyw (or open command/terminal prompt, cd sourceDirectory, python main.pyw)
--	ShareBitcoins runs in the taskbar, right click on the cube to bring up the menu
+-	Double click main.pyw
+-	Right-click on the cube icon in your taskbar
 -	Click "Create Batch", name it, and click OK
--	Edit the batches with a text editor
--	Right click on the cube icon and click on a batch name to initiate a transaction
+-	Edit the batch with a text editor
+-	Right-click the cube and click a batch name to start a transaction
