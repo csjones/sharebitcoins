@@ -18,4 +18,5 @@ How To Get Started
 Donation
 ========
 1EWAuEsHXZbyyvvkXPGKwwaCnaqUyfb2C4
-![Gonna buy me some bitcoin coffee](http://imgur.com/fkQlt.png)
+
+![Gonna buy me some bitcoin coffee](http://i.imgur.com/fkQlt.png)
