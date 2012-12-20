@@ -13,3 +13,10 @@ How To Get Started
 -	Click "Create Batch", name it, and click OK
 -	Edit the batch with a text editor
 -	Right-click the cube and click a batch name to start a transaction
+
+
+Donation
+========
+1EWAuEsHXZbyyvvkXPGKwwaCnaqUyfb2C4
+
+![Gonna buy me some bitcoin coffee](http://i.imgur.com/fkQlt.png)
